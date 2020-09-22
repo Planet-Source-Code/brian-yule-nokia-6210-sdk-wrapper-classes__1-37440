@@ -1,0 +1,12 @@
+Application = 22, 22, 687, 544, Z
+Network_Info = 198, 198, 863, 720, 
+UserInterface = 220, 220, 885, 742, 
+AOC_Info = 0, 0, 665, 522, 
+Phone_Info = 22, 22, 687, 544, 
+Phone_Status = 44, 44, 709, 566, 
+Phone_Capability = 66, 66, 731, 588, 
+Phone_Control = 22, 22, 687, 544, 
+Phone_Control_2 = 88, 88, 753, 610, 
+Phone_Control_Clock = 176, 176, 841, 698, 
+Phone_Control_Media_Pool = 242, 242, 907, 764, 
+Security_Info = 132, 132, 797, 654, 
